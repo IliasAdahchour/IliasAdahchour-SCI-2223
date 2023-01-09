@@ -1,2 +1,2 @@
 # IliasAdahchour-SCI-2223
-ffdnj
+Ik heb een probleem gehad bij het pushen van mijn excel file, dus heb ik een nieuwe repository aangemaakt.
